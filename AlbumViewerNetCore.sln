@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.3
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0A329D36-19A2-4F54-B3C7-17640DDBF44C}"
 EndProject
@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Westwind.Utilities", "src\W
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AlbumViewerAngular", "src\AlbumViewerAngular\", "{293C677F-D21F-417A-AC50-7BAB1917AF1C}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_37063"
 		Debug.AspNetCompiler.PhysicalPath = "src\AlbumViewerAngular\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_37063\"
